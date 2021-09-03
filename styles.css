@@ -84,3 +84,11 @@ background-color: #88c0d0;
 .contact-link {
 	color: black;
 }
+
+i {
+	color: white;
+}
+
+i:hover {
+	color: #88c0d0;
+}
